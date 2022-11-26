@@ -18,7 +18,7 @@ public class Ajay  {
         }
     }
 
-    for(int i=0; i<arr.length;i++){ //Find Largest No.{Second Largest No.}
+    for(int i=0; i<arr.length;i++){ //Second Largest No.
         if(ans<arr[i]){
             ans=arr[i];
         }
