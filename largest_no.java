@@ -1,4 +1,4 @@
-public class Ajay  {
+public class largest_no {
    public static void main(String args[]) {
 
     int[] arr ={1,2,10,35,8,9,4};
