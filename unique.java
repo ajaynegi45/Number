@@ -1,3 +1,4 @@
+
 public class unique {
     public static void main(String[] args) { // finds the unique number in an array of integers.
 
